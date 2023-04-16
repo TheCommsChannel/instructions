@@ -34,4 +34,8 @@ Now, go ahead and insert your SD Card into the computer. Click on the **Choose S
 
 Click on the **Choose OS** button and scroll down to where you see **Use custom** and click on that. Navigate to the Rasbian Image file you downloaded earlier and double click on it.
 
-Now, click on **Choose Storage** and select the device the showed up after putting the SD card into the computer
+Now, click on **Choose Storage** and select the device the showed up after putting the SD card into the computer.
+
+This will be a "headless" (no screen) setup, so we will net to configure a few things before flashing. Click on the Gear button to open the Advanced Options menu and select/input the following:
+
+
