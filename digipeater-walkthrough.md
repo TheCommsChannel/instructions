@@ -1,4 +1,4 @@
-# Building your own Digipeater with Le Potato or Raspberry Pi - Video 1 Instructions
+# Building your own Digipeater with Le Potato or Raspberry Pi
 This is a set of instructions to follow to build your own digipeater using the Libre Computer "Le Potato" device that is similar to a Raspberry Pi. This section is the follow along for video number one of the series.
 
 ## Prep
