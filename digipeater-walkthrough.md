@@ -108,6 +108,6 @@ This section is the follow along instructions for Video 2 in the series. In this
 
 ## Installing Direwolf
 
-To make the process as easy as possilbe, I've created a script that you can run that will install all of the prerequisites and direwolf. 
+To make the process as easy as possible, I've created a script that you can run that will install all of the prerequisites and direwolf. 
 
 ...to be continued
