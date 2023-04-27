@@ -108,6 +108,12 @@ This section is the follow along instructions for Video 2 in the series. In this
 
 ## Installing Direwolf
 
-To make the process as easy as possible, I've created a script that you can run that will install all of the prerequisites and direwolf. 
+To make the process as easy as possible, I've created a script that you can run that will install all of the prerequisites and direwolf which can be found on the https://github.com/TheCommsChannel/digipeater-setup page, but I will include the command here as well:
 
-...to be continued
+```
+wget https://raw.githubusercontent.com/TheCommsChannel/digipeater-setup/main/tc2_direwolf.sh && chmod +x tc2_direwolf.sh && ./tc2_direwolf.sh
+```
+
+Just run the command above to begin the install. It will begin by running updates and installing prereqs needed for Dire Wolf. You will also be asked if you would like to install HamLib. If you're just using a DigiRig, then HamLib is not needed. If you're using something like an Icom 705, Yaesu 991, and a long list of other radios, then you will need HamLib to control the PTT for your radio.
+
+After the script is complete, you should see a number of files in your home directory, including direwolf.conf, which is the configuration file for direwolf. This file has tons of comments explaining the various different options and is helpful to go through it when you have a chance. To simplify things, I've created a couple simple config files `direwolf.digirig.conf` and `direwolf.ic705.conf` to show an example setup for the DigiRig and the Icom IC-705. I'll edit these to my needs during the video, but feel free to follow along and edit to fit your situation.
