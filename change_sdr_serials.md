@@ -1,6 +1,6 @@
-## Changing SDR Serials on adsbexchange.com raspberry pi image
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B1OZ22Z)
+
+## Changing SDR Serials on adsbexchange.com raspberry pi image
 
 When using two of the similar model SDRs, such as the 1090 and 978 SDRs made by Airnav Radarbox, they may have the same serial number.
 This makes it difficult to assign each SDR to the 1090 and 978 services. Follow the steps below to change the serial numbers of the SDRs.
